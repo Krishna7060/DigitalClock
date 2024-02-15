@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  background-color: black;
+}
+
+.Container{
+     height: 100%;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     margin-top: 12%;
+     
+     /* background-color: rgb(48, 48, 150); */
+}
+
+  #clock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    height: 600px;
+    width: 600px;
+    border-radius: 300px;
+    /* background-color: red; */
+    font-size: 4rem;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid 10px blueviolet;
+   }
+
+   h2{
+    margin-bottom: 5rem;
+    font-size: 3.5rem;
+    /* background-color: cadetblue; */
+    color: chocolate;
+   }
+
+
+   
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+ 
+
+
